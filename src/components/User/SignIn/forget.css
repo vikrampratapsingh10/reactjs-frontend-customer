@@ -1,0 +1,18 @@
+#forget{
+    display: grid;
+    place-items: center;
+    margin-top: 70px;
+}
+#forgetemail{
+    
+
+}
+#forgetfield{
+    width: 400px;
+    height: 20px;
+    border-radius: 2%;
+    padding:15px ;
+    border-color:#00e676!important;
+}
+
+ 
